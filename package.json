@@ -1,0 +1,17 @@
+{
+  "name": "imageretriever",
+  "version": "1.0.0",
+  "description": "Api to retrieve images with resizing options",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "matthijs van der meijden",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.224.1"
+  },
+  "dependencies": {
+    "sharp": "^0.20.1"
+  }
+}
